@@ -10,12 +10,12 @@ fault：s1: af, translation, address size, s2:...,
 paging_pattern: coltl1, congtiguous）
 
 ## 指令池
-指令类型
+### 指令类型
 load，store，load/store，pre-index，post-index，
 branchimm，branchany，
 config——MSR，store，pre-index，post-index，branchimm，branchany，branchlink
 check——load，load/store
-指令特征
+### 指令特征
 可跨页指令：size大于1B，可能不检查align
 多uop指令
 
