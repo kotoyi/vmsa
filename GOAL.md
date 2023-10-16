@@ -1,3 +1,7 @@
+# 基础
+## markdown 语法
+<https://keatonlao.gitee.io/a-study-note-for-markdown/syntax/>
+
 # 场景
 1. 指令流功能（TLBI+IC+CFP+CPP）
 1. exception fault
